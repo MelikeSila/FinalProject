@@ -170,6 +170,8 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-00-22-31-944.rawproto" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-00-22-34-460.rawproto" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-00-22-51-928.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-00-28-00-128.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-04-17-00-28-31-080.rawproto" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/generated/mockable-android-24.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/debug/android/support/compat/R.class" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/demo/build/intermediates/classes/debug/android/support/constraint/R$attr.class" />
@@ -13090,8 +13092,8 @@
       <file leaf-file-name="AddObjActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/AddObjActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+            <state relative-caret-position="277">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -17017,8 +17019,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo/src/com/google/maps/android/utils/demo/AddObjActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="35" column="56" selection-start-line="35" selection-start-column="56" selection-end-line="35" selection-end-column="56" />
+        <state relative-caret-position="277">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
           <folding />
         </state>
       </provider>
