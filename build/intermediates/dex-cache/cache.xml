@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melike\Desktop\FinalProject\library\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4c3f9958b61dde9d3ddcef22d53eae457f677c12">
+        <dex dex="C:\Users\Melike\Desktop\FinalProject\demo\build\intermediates\pre-dexed\debug\classes_acea460ffafee2a37848dd92617c587f823ab530.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melike\.android\build-cache\b204e1aa6ec581c46ad500a85747cd7026b91de5\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\Melike\Desktop\FinalProject\demo\build\intermediates\pre-dexed\debug\classes_9768400329a91052b31dfd6de244d6a6203eaf8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melike\.android\build-cache\66401effe85fab224423f058c9eabbb84fa8c48a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\Melike\Desktop\FinalProject\demo\build\intermediates\pre-dexed\debug\classes_da5306feb4932a2ff9bc760222da3af459c0da75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Melike\.android\build-cache\ceea091bf2e5fcac694b0d336ffc2462b7fa3b3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\Melike\Desktop\FinalProject\demo\build\intermediates\pre-dexed\debug\classes_11912725d63a0c1b0ab8e1d3d849d5cf80bde620.jar" />
+    </item>
+
+</items>

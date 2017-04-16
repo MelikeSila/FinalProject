@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:background="@drawable/aaaa">
+
+    <ImageView
+        android:id="@+id/imgView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="1" />
+
+    <ProgressBar
+        android:id="@+id/progressBar2"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="310dp"
+        android:layout_height="28dp"
+        android:layout_gravity="center"/>
+
+    <LinearLayout
+        android:layout_width="376dp"
+        android:layout_height="62dp"
+        android:orientation="horizontal"
+        android:weightSum="1">
+
+        <EditText
+            android:id="@+id/imageText"
+            android:layout_width="346dp"
+            android:layout_height="wrap_content"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Give a Hint!"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/buttonLoadPicture"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="277dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:alpha="0.8"
+            android:background="@android:color/darker_gray"
+            android:gravity="center"
+            android:onClick="loadImagefromGallery"
+            android:orientation="vertical"
+            android:text="Load Picture"
+            android:textColor="#090a09"></Button>
+
+        <Button
+            android:id="@+id/buttonSave"
+            style="@style/Widget.AppCompat.Button"
+            android:layout_width="277dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:alpha="0.8"
+            android:background="@android:color/darker_gray"
+            android:gravity="center"
+            android:onClick="addPhotoToMap"
+            android:orientation="vertical"
+            android:textColor="#090a09"
+
+            android:text="Save Picture" />
+    </LinearLayout>
+
+</LinearLayout>

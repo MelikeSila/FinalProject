@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "118102491844",
+    "firebase_url": "https://bitirme-projesi-6ff18.firebaseio.com",
+    "project_id": "bitirme-projesi-6ff18",
+    "storage_bucket": "bitirme-projesi-6ff18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118102491844:android:10c899526aba3495",
+        "android_client_info": {
+          "package_name": "com.google.maps.android.utils.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118102491844-j3v1kcgl25cuolb5pb1ftkgbpooak2lg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.google.maps.android.utils.demo",
+            "certificate_hash": "5f570eb3a040f544f426204e76fb0cb8f662e8a3"
+          }
+        },
+        {
+          "client_id": "118102491844-ibepivkciu9l4nbqr0pr4k35u61497m6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvgjOrfjjrux88k7nqAGknbm6Z9qrtAgg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118102491844-ibepivkciu9l4nbqr0pr4k35u61497m6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
