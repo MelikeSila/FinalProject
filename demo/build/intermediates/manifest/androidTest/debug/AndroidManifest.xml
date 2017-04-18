@@ -3,7 +3,7 @@
     package="com.google.maps.android.utils.demo.test" >
 
     <uses-sdk
-        android:minSdkVersion="9"
+        android:minSdkVersion="14"
         android:targetSdkVersion="22" />
 
     <instrumentation

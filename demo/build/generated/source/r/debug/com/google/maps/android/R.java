@@ -540,9 +540,9 @@ public final class R {
         public static final int topPanel = 0x7f0d005c;
         public static final int up = 0x7f0d000a;
         public static final int useLogo = 0x7f0d001d;
-        public static final int webview = 0x7f0d0090;
+        public static final int webview = 0x7f0d0092;
         public static final int wide = 0x7f0d004a;
-        public static final int window = 0x7f0d008f;
+        public static final int window = 0x7f0d0091;
         public static final int withText = 0x7f0d0047;
         public static final int wrap_content = 0x7f0d0029;
     }
@@ -576,13 +576,13 @@ public final class R {
         public static final int abc_search_dropdown_item_icons_2line = 0x7f030017;
         public static final int abc_search_view = 0x7f030018;
         public static final int abc_select_dialog_material = 0x7f030019;
-        public static final int amu_info_window = 0x7f030020;
-        public static final int amu_text_bubble = 0x7f030021;
-        public static final int amu_webview = 0x7f030022;
-        public static final int select_dialog_item_material = 0x7f03003d;
-        public static final int select_dialog_multichoice_material = 0x7f03003e;
-        public static final int select_dialog_singlechoice_material = 0x7f03003f;
-        public static final int support_simple_spinner_dropdown_item = 0x7f030040;
+        public static final int amu_info_window = 0x7f030021;
+        public static final int amu_text_bubble = 0x7f030022;
+        public static final int amu_webview = 0x7f030023;
+        public static final int select_dialog_item_material = 0x7f03003e;
+        public static final int select_dialog_multichoice_material = 0x7f03003f;
+        public static final int select_dialog_singlechoice_material = 0x7f030040;
+        public static final int support_simple_spinner_dropdown_item = 0x7f030041;
     }
     public static final class raw {
         public static final int amu_ballon_gx_prefix = 0x7f050000;

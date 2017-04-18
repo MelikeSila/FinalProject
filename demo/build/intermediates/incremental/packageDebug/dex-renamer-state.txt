@@ -1,4 +1,4 @@
-#Tue Apr 18 08:03:38 EEST 2017
-base.0=C\:\\Users\\Melike\\Desktop\\FinalProject\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+#Tue Apr 18 19:13:58 EEST 2017
+base.0=C\:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
 renamed.0=classes.dex
-file.0=C\:\\Users\\Melike\\Desktop\\FinalProject\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+file.0=C\:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex

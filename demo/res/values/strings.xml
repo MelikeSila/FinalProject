@@ -34,4 +34,5 @@
     <string name="title_activity_create_game">CreateGameActivity</string>
     <string name="title_activity_obj_property">ObjPropertyActivity</string>
     <string name="title_activity_add_obj">AddObjActivity</string>
+    <string name="title_activity_set_location">Map</string>
 </resources>

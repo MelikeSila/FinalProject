@@ -380,6 +380,10 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\7d7a76f1da50f1d3049a7895c4eaa6c47952d4b5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_set_location.xml",
+        "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\res\\layout\\activity_set_location.xml"
+    },
+    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\dc7c1637d5863c8be194342668938ee3095fcaff\\output\\res\\layout\\design_navigation_item.xml"
     },

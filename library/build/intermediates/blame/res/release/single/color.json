@@ -28,6 +28,10 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
@@ -52,24 +56,28 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\color\\common_google_signin_btn_text_light.xml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
@@ -92,6 +100,10 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_light.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
@@ -104,12 +116,24 @@
         "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
@@ -126,6 +150,10 @@
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_light.xml",
@@ -146,6 +174,14 @@
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.1.0\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
@@ -180,6 +216,10 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_search_url_text.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_search_url_text.xml"
     },
@@ -192,8 +232,20 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\color\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\color\\switch_thumb_material_light.xml",

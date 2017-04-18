@@ -5,7 +5,7 @@
     android:versionName="1.0" >
 
     <uses-sdk
-        android:minSdkVersion="9"
+        android:minSdkVersion="14"
         android:targetSdkVersion="22" />
 
     <permission
@@ -20,6 +20,7 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
     <uses-feature android:name="android.hardware.camera" />
 
@@ -39,16 +40,13 @@
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <!--
-         The API key for Google Maps-based APIs is defined as a string resource.
-         (See the file "res/values/google_maps_api.xml").
-         Note that the API key is linked to the encryption key used to sign the APK.
-         You need a different API key for each encryption key, including the release key that is used to
-         sign the APK for publishing.
-         You can define the keys for the debug and release targets in src/debug/ and src/release/.
+             The API key for Google Maps-based APIs is defined as a string resource.
+             (See the file "res/values/google_maps_api.xml").
+             Note that the API key is linked to the encryption key used to sign the APK.
+             You need a different API key for each encryption key, including the release key that is used to
+             sign the APK for publishing.
+             You can define the keys for the debug and release targets in src/debug/ and src/release/.
     -->
-    <meta-data
-        android:name="com.google.android.geo.API_KEY"
-        android:value="@string/google_maps_key" />
 
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
@@ -68,9 +66,6 @@
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyDCa5WRSMk3CrNSf3y5xbyQTvp1_zwuTtE" />
 
         <activity
             android:name="com.google.maps.android.utils.demo.MainActivity"
@@ -81,8 +76,6 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.google.maps.android.utils.demo.ClusteringDemoActivity" />
-        <activity android:name="com.google.maps.android.utils.demo.BigClusteringDemoActivity" />
         <activity android:name="com.google.maps.android.utils.demo.CustomMarkerClusteringDemoActivity" />
         <activity
             android:name="com.google.maps.android.utils.demo.HelpActivity"
@@ -114,6 +107,18 @@
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.google.maps.android.utils.demo.ObjPropertyActivity" />
+        </activity>
+
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="@string/google_maps_key" />
+
+        <activity
+            android:name="com.google.maps.android.utils.demo.SetLocationActivity"
+            android:label="@string/title_activity_set_location" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.google.maps.android.utils.demo.AddObjActivity" />
         </activity>
 
         <receiver

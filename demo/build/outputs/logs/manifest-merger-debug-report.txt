@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:2:1-112:12
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:2:1-118:12
 	package
 		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:3:5-49
 		INJECTED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml
@@ -32,23 +32,25 @@ MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Melike\.androi
 MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Melike\.android\build-cache\bfac94a8488e13d96625f952a8cbf52ef71308ef\output\AndroidManifest.xml:3:5-42
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Melike\.android\build-cache\d079585536d2922fc0e94662b809422d903edd2b\output\AndroidManifest.xml:17:5-42
 MERGED from [com.android.support:design:24.2.1] C:\Users\Melike\.android\build-cache\dc7c1637d5863c8be194342668938ee3095fcaff\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Melike\.android\build-cache\0e791e3cdac64274f4811842a7d248ff0e4c5efa\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melike\.android\build-cache\b3ab9f128a5652214d42870a02aef5bf06185d77\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Melike\.android\build-cache\7d7a76f1da50f1d3049a7895c4eaa6c47952d4b5\output\AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Melike\.android\build-cache\5dd42ebfdc81d62952da147086120ca57d2a171f\output\AndroidManifest.xml:21:5-23:54
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Melike\.android\build-cache\b632fa54160b88ddbb79ef9167b306f8b324702e\output\AndroidManifest.xml:21:5-23:60
 MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Melike\.android\build-cache\7660c25109f9d74faba44f6732af9a4926bd87e2\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Melike\.android\build-cache\eb4a0e7b9d12b667f5fdd4d260749a0299ce4617\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Melike\.android\build-cache\1daab0455d8f949078f821b899b1780c63c6b6b4\output\AndroidManifest.xml:21:5-23:61
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Melike\.android\build-cache\8ea4039fb536b6b08393fae528b25445da6af1bc\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:recyclerview-v7:24.2.1] C:\Users\Melike\.android\build-cache\0e791e3cdac64274f4811842a7d248ff0e4c5efa\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Melike\.android\build-cache\eb4a0e7b9d12b667f5fdd4d260749a0299ce4617\output\AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Melike\.android\build-cache\e52efe7235ea38605ad6d9ad557c80ed9c042b05\output\AndroidManifest.xml:21:5-43
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Melike\.android\build-cache\58c76959daa191aae353a8e18cc06983477c550e\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melike\.android\build-cache\b3ab9f128a5652214d42870a02aef5bf06185d77\output\AndroidManifest.xml:5:5-7:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Melike\.android\build-cache\7d7a76f1da50f1d3049a7895c4eaa6c47952d4b5\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
 		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:9:9-38
 	android:minSdkVersion
 		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:8:9-34
+		INJECTED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml
+		INJECTED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml
 permission#com.google.maps.android.utils.permission.MAPS_RECEIVE
 ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:11:5-13:47
 	android:protectionLevel
@@ -92,42 +94,36 @@ ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:
 	android:name
 		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:21:22-76
 uses-feature#android.hardware.camera
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:24:5-60
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:25:5-60
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:24:19-57
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:25:19-57
 uses-permission#android.permission.CAMERA
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:26:5-65
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:27:5-65
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:26:22-62
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:27:22-62
 uses-feature#android.hardware.camera.autofocus
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:28:5-70
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:29:5-70
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:28:19-67
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:29:19-67
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:31:5-33:38
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:32:5-34:38
 	android:maxSdkVersion
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:33:9-35
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:34:9-35
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:32:9-64
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:33:9-64
 uses-feature#0x00020000
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:35:5-37:35
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:36:5-38:35
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Melike\.android\build-cache\ba21900cff69f922944f11844041ee0d120c3b4c\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:36:9-41
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:37:9-41
 	android:required
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:37:9-32
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:38:9-32
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:39:5-75
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:40:5-75
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:39:22-72
-meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:49:5-51:51
-	android:value
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:51:9-48
-	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:50:9-54
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:40:22-72
 application
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:55:5-110:19
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:53:5-116:19
 MERGED from [com.google.maps.android:library:0.4.5-SNAPSHOT] C:\Users\Melike\Desktop\FinalProject-master\library\build\intermediates\bundles\default\AndroidManifest.xml:7:5-11:19
 MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\Melike\.android\build-cache\ba21900cff69f922944f11844041ee0d120c3b4c\output\AndroidManifest.xml:24:5-19
 MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\Melike\.android\build-cache\14e6c5c8650035570cd701f0a8f9f3833d3e1f4b\output\AndroidManifest.xml:4:5-19
@@ -141,106 +137,110 @@ MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\Melike\.androi
 MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\Melike\.android\build-cache\bfac94a8488e13d96625f952a8cbf52ef71308ef\output\AndroidManifest.xml:4:5-19
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Melike\.android\build-cache\d079585536d2922fc0e94662b809422d903edd2b\output\AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:design:24.2.1] C:\Users\Melike\.android\build-cache\dc7c1637d5863c8be194342668938ee3095fcaff\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melike\.android\build-cache\b3ab9f128a5652214d42870a02aef5bf06185d77\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Melike\.android\build-cache\7d7a76f1da50f1d3049a7895c4eaa6c47952d4b5\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Melike\.android\build-cache\5dd42ebfdc81d62952da147086120ca57d2a171f\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Melike\.android\build-cache\b632fa54160b88ddbb79ef9167b306f8b324702e\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Melike\.android\build-cache\7660c25109f9d74faba44f6732af9a4926bd87e2\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Melike\.android\build-cache\eb4a0e7b9d12b667f5fdd4d260749a0299ce4617\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Melike\.android\build-cache\1daab0455d8f949078f821b899b1780c63c6b6b4\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Melike\.android\build-cache\8ea4039fb536b6b08393fae528b25445da6af1bc\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Melike\.android\build-cache\eb4a0e7b9d12b667f5fdd4d260749a0299ce4617\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Melike\.android\build-cache\e52efe7235ea38605ad6d9ad557c80ed9c042b05\output\AndroidManifest.xml:23:5-20
 MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Melike\.android\build-cache\58c76959daa191aae353a8e18cc06983477c550e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Melike\.android\build-cache\b3ab9f128a5652214d42870a02aef5bf06185d77\output\AndroidManifest.xml:9:5-20
 	android:label
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:58:9-41
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:56:9-41
 	android:allowBackup
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:56:9-36
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:54:9-36
 	android:icon
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:57:9-45
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:55:9-45
 	android:theme
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:59:9-50
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:57:9-50
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:60:9-62:69
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:58:9-60:69
 MERGED from [com.google.maps.android:library:0.4.5-SNAPSHOT] C:\Users\Melike\Desktop\FinalProject-master\library\build\intermediates\bundles\default\AndroidManifest.xml:8:9-10:69
 MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\Melike\.android\build-cache\d079585536d2922fc0e94662b809422d903edd2b\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:62:13-66
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:60:13-66
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:61:13-58
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:59:13-58
 activity#com.google.maps.android.utils.demo.MainActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:67:9-75:20
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:62:9-70:20
 	android:label
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:69:13-45
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:64:13-45
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:68:13-41
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:63:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:70:13-74:29
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:65:13-69:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:71:17-69
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:66:17-69
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:71:25-66
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:66:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:73:17-77
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:68:17-77
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:73:27-74
-activity#com.google.maps.android.utils.demo.ClusteringDemoActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:76:9-60
-	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:76:19-57
-activity#com.google.maps.android.utils.demo.BigClusteringDemoActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:77:9-63
-	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:77:19-60
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:68:27-74
 activity#com.google.maps.android.utils.demo.CustomMarkerClusteringDemoActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:78:9-72
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:71:9-72
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:78:19-69
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:71:19-69
 activity#com.google.maps.android.utils.demo.HelpActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:79:9-81:59
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:72:9-74:59
 	android:label
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:81:13-56
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:74:13-56
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:80:13-41
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:73:13-41
 activity#com.google.maps.android.utils.demo.AddActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:82:9-84:58
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:75:9-77:58
 	android:label
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:84:13-55
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:77:13-55
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:83:13-40
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:76:13-40
 activity#com.google.maps.android.utils.demo.PhotoActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:85:9-51
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:78:9-51
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:85:19-48
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:78:19-48
 activity#com.google.maps.android.utils.demo.CreateGameActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:86:9-93:20
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:79:9-86:20
 	android:label
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:88:13-63
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:81:13-63
 	android:parentActivityName
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:89:13-55
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:82:13-55
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:87:13-47
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:80:13-47
 meta-data#android.support.PARENT_ACTIVITY
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:90:13-92:83
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:83:13-85:83
 	android:value
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:92:17-80
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:85:17-80
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:91:17-63
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:84:17-63
 activity#com.google.maps.android.utils.demo.ObjPropertyActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:94:9-101:20
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:87:9-94:20
 	android:label
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:96:13-64
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:89:13-64
 	android:parentActivityName
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:97:13-61
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:90:13-61
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:95:13-48
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:88:13-48
 activity#com.google.maps.android.utils.demo.AddObjActivity
-ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:102:9-109:20
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:95:9-102:20
 	android:label
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:104:13-59
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:97:13-59
 	android:parentActivityName
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:105:13-62
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:98:13-62
 	android:name
-		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:103:13-43
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:96:13-43
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:104:9-106:55
+	android:value
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:106:13-52
+	android:name
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:105:13-58
+activity#com.google.maps.android.utils.demo.SetLocationActivity
+ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:108:9-115:20
+	android:label
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:110:13-64
+	android:name
+		ADDED from C:\Users\Melike\Desktop\FinalProject-master\demo\AndroidManifest.xml:109:13-82
 uses-permission#android.permission.WAKE_LOCK
 ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\Melike\.android\build-cache\6aa1858e7775d93a6470e27de24c0741071092de\output\AndroidManifest.xml:22:5-67
 MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\Melike\.android\build-cache\8ba46483233430d161a92c76ccb9221e8ee2b14b\output\AndroidManifest.xml:22:5-67

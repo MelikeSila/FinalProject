@@ -94,5 +94,29 @@
                 }
             }
         ]
+    },
+    {
+        "outputFile": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 48,
+                    "endOffset": 99
+                },
+                "from": {
+                    "file": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\values-v18\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 48,
+                        "endOffset": 335
+                    }
+                }
+            }
+        ]
     }
 ]

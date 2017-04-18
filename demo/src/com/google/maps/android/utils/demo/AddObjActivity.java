@@ -9,7 +9,6 @@ import android.os.Bundle;
 import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.v4.content.FileProvider;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
@@ -30,7 +29,7 @@ import com.squareup.picasso.Picasso;
 
 import java.io.File;
 
-public class AddObjActivity extends Activity implements View.OnClickListener{
+public class AddObjActivity extends Activity implements View.OnClickListener {
     private static final int PICK_IMAGE_ACTIVITY_REQUEST_CODE = 3737;
     private static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE = 7171;
 
@@ -92,6 +91,7 @@ public class AddObjActivity extends Activity implements View.OnClickListener{
         takeButton.setOnClickListener(this);
         uploadButton.setOnClickListener(this);
     }
+
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
@@ -107,9 +107,11 @@ public class AddObjActivity extends Activity implements View.OnClickListener{
         }
     }
 
-    private void setLocation(){
-        
+    private void setLocation() {
+        Intent i = new Intent(getApplicationContext(), SetLocationActivity.class);
+        startActivity(i);
     }
+
     private void pickPhoto() {
         if (Build.VERSION.SDK_INT < 19) {
             Intent intent = new Intent();
