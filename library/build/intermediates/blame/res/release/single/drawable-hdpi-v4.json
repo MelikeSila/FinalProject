@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
-    },
-    {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\c9a4ef1ea8654e70250d58fa5b852f7221f5da93\\output\\res\\drawable-hdpi-v4\\common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",

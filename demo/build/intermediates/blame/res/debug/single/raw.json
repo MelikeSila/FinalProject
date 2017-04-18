@@ -16,12 +16,12 @@
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ground_overlay_color.kml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_inline_style.kml",
-        "source": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_inline_style.kml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_numeric.kml",
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_poly_style_boolean_numeric.kml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_inline_style.kml",
+        "source": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_inline_style.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\radar_search.json",
@@ -32,12 +32,12 @@
         "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_ground_overlay_color.kml"
     },
     {
-        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multiple_placemarks.kml",
-        "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multiple_placemarks.kml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\medicare.json",
         "source": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\res\\raw\\medicare.json"
+    },
+    {
+        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multiple_placemarks.kml",
+        "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multiple_placemarks.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unknwown_folder.kml",
@@ -48,20 +48,20 @@
         "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_unsupported.kml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\police.json",
-        "source": "C:\\Users\\Melike\\Desktop\\FinalProject\\demo\\res\\raw\\police.json"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_basic_folder.kml",
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_basic_folder.kml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_multigeometry.kml",
-        "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_nested_multigeometry.kml"
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\police.json",
+        "source": "C:\\Users\\Melike\\Desktop\\FinalProject\\demo\\res\\raw\\police.json"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_unknwown_folder.kml",
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_unknwown_folder.kml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_multigeometry.kml",
+        "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_nested_multigeometry.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_draw_order_ground_overlay.kml",
@@ -132,12 +132,12 @@
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_cdata.kml"
     },
     {
-        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_numeric.kml",
-        "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_poly_style_boolean_numeric.kml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_draw_order_ground_overlay.kml",
         "source": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_draw_order_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_poly_style_boolean_numeric.kml",
+        "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_poly_style_boolean_numeric.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_multigeometry.kml",
@@ -152,12 +152,12 @@
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_visibility_ground_overlay.kml"
     },
     {
-        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multigeometry_placemarks.kml",
-        "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multigeometry_placemarks.kml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_nested_folders.kml",
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_multigeometry_placemarks.kml",
+        "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\bundles\\default\\res\\raw\\amu_multigeometry_placemarks.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\demo\\build\\intermediates\\res\\merged\\debug\\raw\\amu_document_nest.kml",

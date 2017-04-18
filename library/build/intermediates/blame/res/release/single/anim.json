@@ -8,12 +8,12 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_top.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_popup_exit.xml",
@@ -36,12 +36,12 @@
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Melike\\.android\\build-cache\\5af797616b7bd943252df19cddce250ed19ee350\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\anim\\abc_shrink_fade_out_from_bottom.xml",

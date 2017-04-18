@@ -20,24 +20,24 @@
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\res\\raw\\amu_draw_order_ground_overlay.kml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_nested_multigeometry.kml",
-        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_nested_multigeometry.kml"
-    },
-    {
         "merged": "C:\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_unsupported.kml",
         "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_unsupported.kml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_nested_multigeometry.kml",
+        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_nested_multigeometry.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_unsupported.kml",
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\res\\raw\\amu_unsupported.kml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_cdata.kml",
-        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_cdata.kml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_visibility_ground_overlay.kml",
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\res\\raw\\amu_visibility_ground_overlay.kml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_cdata.kml",
+        "source": "C:\\Users\\Melike\\Desktop\\BITIRME\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_cdata.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_document_nest.kml",
@@ -160,12 +160,12 @@
         "source": "C:\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_ballon_gx_prefix.kml"
     },
     {
-        "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_basic_folder.kml",
-        "source": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_basic_folder.kml"
-    },
-    {
         "merged": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_nested_folders.kml",
         "source": "C:\\Users\\Melike\\Desktop\\FinalProject-master\\library\\res\\raw\\amu_nested_folders.kml"
+    },
+    {
+        "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_basic_folder.kml",
+        "source": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\res\\raw\\amu_basic_folder.kml"
     },
     {
         "merged": "C:\\Users\\Melike\\Desktop\\BitirmeProje\\android-maps-utils-master\\library\\build\\intermediates\\res\\merged\\release\\raw\\amu_nested_folders.kml",
