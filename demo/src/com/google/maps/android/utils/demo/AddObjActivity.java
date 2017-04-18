@@ -1,21 +1,28 @@
 package com.google.maps.android.utils.demo;
 
+import android.app.Activity;
 import android.content.Intent;
 import android.database.Cursor;
 import android.net.Uri;
 import android.os.Build;
 import android.os.Bundle;
-import android.app.Activity;
 import android.provider.MediaStore;
 import android.support.annotation.NonNull;
 import android.support.v4.content.FileProvider;
+import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
 
+import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.OnFailureListener;
 import com.google.android.gms.tasks.OnSuccessListener;
+import com.google.android.gms.tasks.Task;
+import com.google.firebase.auth.AuthResult;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.storage.FirebaseStorage;
 import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
@@ -27,8 +34,13 @@ public class AddObjActivity extends Activity implements View.OnClickListener{
     private static final int PICK_IMAGE_ACTIVITY_REQUEST_CODE = 3737;
     private static final int CAPTURE_IMAGE_ACTIVITY_REQUEST_CODE = 7171;
 
+    //to authantication
+    private static String TAG = "AddObjActivity";
+    private FirebaseAuth mAuth;
+    private FirebaseAuth.AuthStateListener mAuthListener;
+
     ImageView imageView;
-    Button pickButton, takeButton, uploadButton;
+    Button setLocation, takeButton, uploadButton;
 
     private String imagePath = null;
 
@@ -36,20 +48,55 @@ public class AddObjActivity extends Activity implements View.OnClickListener{
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_add_obj);
+        //to authantication
+        mAuth = FirebaseAuth.getInstance();
+        mAuthListener = new FirebaseAuth.AuthStateListener() {
+            @Override
+            public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
+                FirebaseUser user = firebaseAuth.getCurrentUser();
+                if (user != null) {
+                    // User is signed in
+                    Log.d(TAG, "onAuthStateChanged:signed_in:" + user.getUid());
+                } else {
+                    // User is signed out
+                    Log.d(TAG, "onAuthStateChanged:signed_out");
+                }
+                // ...
+            }
+        };
+
+        mAuth.signInAnonymously()
+                .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
+                    @Override
+                    public void onComplete(@NonNull Task<AuthResult> task) {
+                        Log.d(TAG, "signInAnonymously:onComplete:" + task.isSuccessful());
+
+                        // If sign in fails, display a message to the user. If sign in succeeds
+                        // the auth state listener will be notified and logic to handle the
+                        // signed in user can be handled in the listener.
+                        if (!task.isSuccessful()) {
+                            Log.w(TAG, "signInAnonymously", task.getException());
+                            Toast.makeText(AddObjActivity.this, "Authentication failed.", Toast.LENGTH_SHORT).show();
+                        }
+                        // ...
+                    }
+                });
+
+        ///////////////////////////
         imageView = (ImageView) findViewById(R.id.imageContainer);
-        pickButton = (Button) findViewById(R.id.pickPhoto);
+        setLocation = (Button) findViewById(R.id.setLocation);
         takeButton = (Button) findViewById(R.id.takePhoto);
         uploadButton = (Button) findViewById(R.id.uploadPhoto);
 
-        pickButton.setOnClickListener(this);
+        setLocation.setOnClickListener(this);
         takeButton.setOnClickListener(this);
         uploadButton.setOnClickListener(this);
     }
     @Override
     public void onClick(View v) {
         switch (v.getId()) {
-            case R.id.pickPhoto:
-                pickPhoto();
+            case R.id.setLocation:
+                setLocation();
                 break;
             case R.id.takePhoto:
                 takePhoto();
@@ -60,6 +107,9 @@ public class AddObjActivity extends Activity implements View.OnClickListener{
         }
     }
 
+    private void setLocation(){
+        
+    }
     private void pickPhoto() {
         if (Build.VERSION.SDK_INT < 19) {
             Intent intent = new Intent();
@@ -167,6 +217,20 @@ public class AddObjActivity extends Activity implements View.OnClickListener{
     private void showImage(String file) {
         Uri f = Uri.fromFile(new File(file));
         Picasso.with(this).load(f).into(imageView);
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        mAuth.addAuthStateListener(mAuthListener);
+    }
+
+    @Override
+    public void onStop() {
+        super.onStop();
+        if (mAuthListener != null) {
+            mAuth.removeAuthStateListener(mAuthListener);
+        }
     }
 
 }

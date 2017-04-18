@@ -17,18 +17,21 @@
         android:background="#ddd" />
 
     <Button
-        android:id="@+id/pickPhoto"
+        android:id="@+id/setLocation"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/imageContainer"
-        android:text="Pick" />
+        android:text="Set Location"
+        android:layout_below="@+id/imageContainer"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="118dp" />
 
     <Button
         android:id="@+id/takePhoto"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/pickPhoto"
-        android:text="Take" />
+        android:layout_below="@id/setLocation"
+        android:text="Take Photo" />
 
     <Button
         android:id="@+id/uploadPhoto"

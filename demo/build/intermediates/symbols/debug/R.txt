@@ -865,7 +865,6 @@ int id packed 0x7f0d000f
 int id parallax 0x7f0d0035
 int id parent 0x7f0d000c
 int id parentPanel 0x7f0d005b
-int id pickPhoto 0x7f0d0083
 int id pin 0x7f0d0036
 int id progressBar2 0x7f0d008b
 int id progress_bar 0x7f0d00ac
@@ -891,6 +890,7 @@ int id search_plate 0x7f0d0078
 int id search_src_text 0x7f0d0079
 int id search_voice_btn 0x7f0d007d
 int id select_dialog_listview 0x7f0d007e
+int id setLocation 0x7f0d0083
 int id shortcut 0x7f0d0068
 int id showCustom 0x7f0d001a
 int id showHome 0x7f0d001b

@@ -3443,7 +3443,6 @@ containing a value of this type.
         public static final int parallax=0x7f0d0035;
         public static final int parent=0x7f0d000c;
         public static final int parentPanel=0x7f0d005b;
-        public static final int pickPhoto=0x7f0d0083;
         public static final int pin=0x7f0d0036;
         public static final int progressBar2=0x7f0d008b;
         public static final int progress_bar=0x7f0d00ac;
@@ -3469,6 +3468,7 @@ containing a value of this type.
         public static final int search_src_text=0x7f0d0079;
         public static final int search_voice_btn=0x7f0d007d;
         public static final int select_dialog_listview=0x7f0d007e;
+        public static final int setLocation=0x7f0d0083;
         public static final int shortcut=0x7f0d0068;
         public static final int showCustom=0x7f0d001a;
         public static final int showHome=0x7f0d001b;
